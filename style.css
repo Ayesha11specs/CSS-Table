@@ -1,0 +1,95 @@
+body{
+    background-image: url(Background\ img.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+table{
+    
+    text-align: center;
+    margin: 100px;
+    border: 2px solid red; 
+    overflow: hidden;
+    border-collapse: collapse;
+    margin-left: 300px;
+}
+th{
+    color: white;
+    background-color: cornflowerblue;
+}
+#one{
+    background-color: wheat;
+    color: brown;
+}
+#one:hover{
+    background-color: aquamarine;
+}
+#two{
+    background-color: rgb(224, 221, 221);
+    color: brown;
+}
+#three{
+    background-color: wheat;
+    color: brown;
+}
+#three:hover{
+    background-color: aquamarine;
+}
+#four{
+    background-color: rgb(224, 221, 221);
+    color: brown;
+}
+#five{
+    background-color: wheat;
+    color: brown;
+}
+#five:hover{
+    background-color: aquamarine;
+}
+#ok{
+    background-color: rgb(224,221,221);
+    color: brown;
+}
+#hello{
+    background-color: wheat;
+    color: brown;
+}
+#six{
+    background-color: rgb(224, 221, 221);
+    color: brown;
+}
+#seven{
+    background-color: wheat;
+    color: brown;
+}
+#seven:hover{
+    background-color: aquamarine;
+}
+#eight{
+    background-color: rgb(224, 221, 221);
+    color: brown;
+}
+#nine{
+    background-color: wheat;
+    color: brown;
+}
+#nine:hover{
+    background-color: aquamarine;
+}
+#ten{
+    background-color: rgb(224, 221, 221);
+    color: brown;
+}
+#eleven{
+    background-color: wheat;
+    color: brown;
+}
+#twelve{
+    background-color: rgb(224, 221, 221);
+    color: brown;
+}
+table{
+    border-radius: 20px;
+}
+
